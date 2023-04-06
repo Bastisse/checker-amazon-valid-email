@@ -1,0 +1,1 @@
+# checker-amazon-valid-email
